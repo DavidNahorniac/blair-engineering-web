@@ -16,23 +16,29 @@ This is a rough plan, and might change.
 
 Entries should be in the template 
 [Section]:
+
 	* [Tech] ([status])
 
 Web Server:	
+
 	* Apache (required)
 
 Markup:
+
 	* HTML (required)
 
 Style:
+
 	* CSS (required)
 	* Sass/SCSS (possible)
 
 Scripting:
+
 	* JS (required)
 	* JQuery (probably)
 
 Database:
+
 	* SQL (not sure, will have to ask sysops at some point)
 
 ## TODO ##
