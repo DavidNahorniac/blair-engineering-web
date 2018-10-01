@@ -10,6 +10,8 @@ You can ignore this if you already have an editor & git set up.
 	1. Create a folder for the project.
 	2. Install atom text editor.
 	3. pull github repo onto folder using atom (look up tutorial online).
+        4. set up lightweight web server (e.g. lighttpd) to serve repo folder
+        5. go to localhost website using browser
 
 ## Technologies ##
 This is a rough plan, and might change.
